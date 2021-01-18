@@ -1,4 +1,4 @@
-# rust-mobile-example
+# mob-bindgen
 
 WIP
 
